@@ -3,7 +3,13 @@ This is a notes document for anything that I may need for coding
 
 First:
 	FTC
-		- 
+		- To do:
+			-Practice git
+			-Read through ryanstutorials on linux
+			-Learn about how push and pulls work (in the process)
+			-Checkout the pull request "Add initial WebSocket support to OnBotJava"
+				-Tom said you will start this thursday
+				-You might want to just check it out before
 		- 
 		- 
 		- 
